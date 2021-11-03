@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://developebyarif.github.io/mfe-micro-app-1/static/css/main.d1b05096.css",
-    "main.js": "https://developebyarif.github.io/mfe-micro-app-1/static/js/main.be62e86a.js",
-    "main.js.map": "https://developebyarif.github.io/mfe-micro-app-1/static/js/main.be62e86a.js.map",
+    "main.js": "https://developebyarif.github.io/mfe-micro-app-1/static/js/main.a306ee6d.js",
+    "main.js.map": "https://developebyarif.github.io/mfe-micro-app-1/static/js/main.a306ee6d.js.map",
     "index.html": "https://developebyarif.github.io/mfe-micro-app-1/index.html",
-    "precache-manifest.83ec1d1c18c603d61393ea0f8a1c4659.js": "https://developebyarif.github.io/mfe-micro-app-1/precache-manifest.83ec1d1c18c603d61393ea0f8a1c4659.js",
+    "precache-manifest.951539508acdce2e79029b98ccddfc0f.js": "https://developebyarif.github.io/mfe-micro-app-1/precache-manifest.951539508acdce2e79029b98ccddfc0f.js",
     "service-worker.js": "https://developebyarif.github.io/mfe-micro-app-1/service-worker.js",
     "static/css/main.d1b05096.css.map": "https://developebyarif.github.io/mfe-micro-app-1/static/css/main.d1b05096.css.map",
-    "static/js/main.be62e86a.js.LICENSE.txt": "https://developebyarif.github.io/mfe-micro-app-1/static/js/main.be62e86a.js.LICENSE.txt",
+    "static/js/main.a306ee6d.js.LICENSE.txt": "https://developebyarif.github.io/mfe-micro-app-1/static/js/main.a306ee6d.js.LICENSE.txt",
     "static/media/logo.svg": "https://developebyarif.github.io/mfe-micro-app-1/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/css/main.d1b05096.css",
-    "static/js/main.be62e86a.js"
+    "static/js/main.a306ee6d.js"
   ]
 }
