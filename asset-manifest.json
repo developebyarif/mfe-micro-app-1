@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mfe-micro-app-1/static/css/main.d1b05096.css",
-    "main.js": "/mfe-micro-app-1/static/js/main.aad35cfb.js",
-    "main.js.map": "/mfe-micro-app-1/static/js/main.aad35cfb.js.map",
+    "main.js": "/mfe-micro-app-1/static/js/main.3888eda0.js",
+    "main.js.map": "/mfe-micro-app-1/static/js/main.3888eda0.js.map",
     "index.html": "/mfe-micro-app-1/index.html",
-    "precache-manifest.7c4b69bade36708f760543b23160ce53.js": "/mfe-micro-app-1/precache-manifest.7c4b69bade36708f760543b23160ce53.js",
+    "precache-manifest.7de0c489004fdc4f740a9fe46ecff226.js": "/mfe-micro-app-1/precache-manifest.7de0c489004fdc4f740a9fe46ecff226.js",
     "service-worker.js": "/mfe-micro-app-1/service-worker.js",
     "static/css/main.d1b05096.css.map": "/mfe-micro-app-1/static/css/main.d1b05096.css.map",
-    "static/js/main.aad35cfb.js.LICENSE.txt": "/mfe-micro-app-1/static/js/main.aad35cfb.js.LICENSE.txt",
+    "static/js/main.3888eda0.js.LICENSE.txt": "/mfe-micro-app-1/static/js/main.3888eda0.js.LICENSE.txt",
     "static/media/logo.svg": "/mfe-micro-app-1/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/css/main.d1b05096.css",
-    "static/js/main.aad35cfb.js"
+    "static/js/main.3888eda0.js"
   ]
 }
