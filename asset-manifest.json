@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mfe-micro-app-1/static/css/main.d1b05096.css",
+    "main.js": "/mfe-micro-app-1/static/js/main.93e22146.js",
+    "main.js.map": "/mfe-micro-app-1/static/js/main.93e22146.js.map",
+    "index.html": "/mfe-micro-app-1/index.html",
+    "precache-manifest.c433e678ac03b0f0e8c9363d3254de41.js": "/mfe-micro-app-1/precache-manifest.c433e678ac03b0f0e8c9363d3254de41.js",
+    "service-worker.js": "/mfe-micro-app-1/service-worker.js",
+    "static/css/main.d1b05096.css.map": "/mfe-micro-app-1/static/css/main.d1b05096.css.map",
+    "static/js/main.93e22146.js.LICENSE.txt": "/mfe-micro-app-1/static/js/main.93e22146.js.LICENSE.txt",
+    "static/media/logo.svg": "/mfe-micro-app-1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/css/main.d1b05096.css",
+    "static/js/main.93e22146.js"
+  ]
+}
