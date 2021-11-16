@@ -3,10 +3,12 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const path = (process.env.NODE_ENV == "development")? process.env.REACT_APP_CONTENT_HOST : "";
   return (
     <div className="App">
       <header className="App-header">
-        <img src={`${process.env.REACT_APP_CONTENT_HOST}${logo}`} className="App-logo" alt="logo" />
+        <img src={`${path}${logo}`} className="App-logo" alt="logo" />
+        {/* <img src={`${logo}`} className="App-logo" alt="logo" /> */}
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
