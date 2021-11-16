@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://developebyarif.github.io/mfe-micro-app-1/precache-manifest.4b31065a38b8cd32280d1a096b6b04ef.js"
+  "https://developebyarif.github.io/mfe-micro-app-1/precache-manifest.c1476fbbbfb7bc80bab2ee42b61efcae.js"
 );
 
 self.addEventListener('message', (event) => {
