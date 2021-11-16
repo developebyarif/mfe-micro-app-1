@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a78f814974f8241c7e799d05e2079ee",
+    "revision": "a8aa75c1fdc6b9cf379fd0cb8668702b",
     "url": "https://developebyarif.github.io/mfe-micro-app-1/index.html"
   },
   {
-    "revision": "77cb762dcd9b43666d3e",
-    "url": "https://developebyarif.github.io/mfe-micro-app-1/static/css/main.d1b05096.css"
+    "revision": "a599dcd8744af668a004",
+    "url": "https://developebyarif.github.io/mfe-micro-app-1/static/css/main.d9cabecd.css"
   },
   {
-    "revision": "77cb762dcd9b43666d3e",
+    "revision": "a599dcd8744af668a004",
     "url": "https://developebyarif.github.io/mfe-micro-app-1/static/js/main.62d37c6f.js"
   },
   {
